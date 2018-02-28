@@ -11,8 +11,7 @@ lightbox.option({
 
 $(document).ready(function() {
 
-  $('#search').hideseek({
-  });
+  $('#search').hideseek();
   //$('#Lake').hideseek();
 
 });

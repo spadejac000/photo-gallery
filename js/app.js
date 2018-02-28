@@ -10,7 +10,7 @@ lightbox.option({
 //hideseek plugin
 
 $(document).ready(function() {
-	$('#search').hideseek();
+	$('#Search').hideseek();
 });
 
 

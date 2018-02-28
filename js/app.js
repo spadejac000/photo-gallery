@@ -10,9 +10,12 @@ lightbox.option({
 //hideseek plugin
 
 $(document).ready(function() {
-	$('#Search').hideseek();
-});
 
+  $('#search').hideseek({
+  });
+  //$('#Lake').hideseek();
+
+});
 
 
 

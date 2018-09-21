@@ -1,12 +1,3 @@
-//lightbox plugin
-
-lightbox.option({
-  'alwaysShowNavOnTouchDevices': true,
-  'wrapAround': true,
-  'fadeIn': 1000,
-  'fadeOut': 1000
-});
-
 //hideseek plugin
 
 $(document).ready(function() {
